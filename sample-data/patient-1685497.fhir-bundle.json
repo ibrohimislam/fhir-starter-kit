@@ -1,0 +1,4156 @@
+{
+    "entry": [
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-687"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-687", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-10-25"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-679"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-679", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-02-25"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-654"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-654", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-01-10"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-675"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-675", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-10-23"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-664"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-664", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-11-22"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-657"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-657", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-04-13"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-696"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-696", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-08-03"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-697"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-697", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-09-02"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-669"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-669", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-04-22"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-676"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-676", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-11-21"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-662"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-662", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-09-17"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-698"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-698", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-10-06"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-684"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-684", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-07-22"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-682"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-682", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-05-27"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-672"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-672", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-07-23"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-673"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-673", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-08-21"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-674"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-674", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-09-21"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-689"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-689", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-12-28"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-665"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-665", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-12-25"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-655"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-655", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-02-16"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-683"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-683", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-06-22"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-658"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-658", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-05-15"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-670"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-670", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-05-22"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-681"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-681", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-05-01"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-686"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-686", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-09-25"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-661"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-661", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-08-18"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-688"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-688", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-11-27"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-652"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-652", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2003-11-18"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-666"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-190"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-666", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "197885", 
+                            "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-01-18"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationRequest/ehealth-MedicationRequest-191"
+            }, 
+            "resource": {
+                "dispenseRequest": {
+                    "expectedSupplyDuration": {
+                        "code": "d", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "days", 
+                        "value": 30
+                    }, 
+                    "numberOfRepeatsAllowed": 1, 
+                    "quantity": {
+                        "code": "{tablet}", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "{tablet}", 
+                        "value": 30.0
+                    }
+                }, 
+                "dosageInstruction": [
+                    {
+                        "doseQuantity": {
+                            "code": "{tablet}", 
+                            "system": "http://unitsofmeasure.org", 
+                            "unit": "{tablet}", 
+                            "value": 1.0
+                        }, 
+                        "text": "1 qhs", 
+                        "timing": {
+                            "repeat": {
+                                "boundsPeriod": {
+                                    "start": "2003-11-25"
+                                }, 
+                                "frequency": 1, 
+                                "period": 1, 
+                                "periodUnit": "d"
+                            }
+                        }
+                    }
+                ], 
+                "id": "ehealth-MedicationRequest-191", 
+                "intent": "order", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "resourceType": "MedicationRequest", 
+                "status": "active", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Niacin 500 MG Extended Release Tablet [Niaspan] (rxnorm: 311946)</div>", 
+                    "status": "generated"
+                }
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-706"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-191"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-706", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 500 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-01-04"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-712"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-191"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-712", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 500 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-08-04"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-713"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-191"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-713", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 500 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-09-07"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-711"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-191"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-711", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 500 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-06-22"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-708"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-191"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-708", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 500 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-03-12"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-715"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-191"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-715", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 500 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-11-19"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-710"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-191"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-710", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 500 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-05-17"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-705"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-191"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-705", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 500 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2003-11-25"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-709"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-191"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-709", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 500 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-04-13"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-707"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-191"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-707", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 500 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-02-04"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-714"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-191"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-714", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311946", 
+                            "display": "Niacin 500 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 500 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 500 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-10-09"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationRequest/ehealth-MedicationRequest-192"
+            }, 
+            "resource": {
+                "dispenseRequest": {
+                    "expectedSupplyDuration": {
+                        "code": "d", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "days", 
+                        "value": 30
+                    }, 
+                    "numberOfRepeatsAllowed": 1, 
+                    "quantity": {
+                        "code": "{tablet}", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "{tablet}", 
+                        "value": 60.0
+                    }
+                }, 
+                "dosageInstruction": [
+                    {
+                        "doseQuantity": {
+                            "code": "{tablet}", 
+                            "system": "http://unitsofmeasure.org", 
+                            "unit": "{tablet}", 
+                            "value": 1.0
+                        }, 
+                        "text": "1 bid", 
+                        "timing": {
+                            "repeat": {
+                                "boundsPeriod": {
+                                    "start": "2004-09-06"
+                                }, 
+                                "frequency": 2, 
+                                "period": 1, 
+                                "periodUnit": "d"
+                            }
+                        }
+                    }
+                ], 
+                "id": "ehealth-MedicationRequest-192", 
+                "intent": "order", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "308194", 
+                            "display": "Amoxicillin 875 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Amoxicillin 875 MG Oral Tablet"
+                }, 
+                "resourceType": "MedicationRequest", 
+                "status": "active", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Amoxicillin 875 MG Oral Tablet (rxnorm: 308194)</div>", 
+                    "status": "generated"
+                }
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-699"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-192"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-699", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "308194", 
+                            "display": "Amoxicillin 875 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Amoxicillin 875 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 60.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 60 tablets = 30 day supply of Amoxicillin 875 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-09-06"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationRequest/ehealth-MedicationRequest-193"
+            }, 
+            "resource": {
+                "dispenseRequest": {
+                    "expectedSupplyDuration": {
+                        "code": "d", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "days", 
+                        "value": 30
+                    }, 
+                    "numberOfRepeatsAllowed": 1, 
+                    "quantity": {
+                        "code": "{tablet}", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "{tablet}", 
+                        "value": 30.0
+                    }
+                }, 
+                "dosageInstruction": [
+                    {
+                        "doseQuantity": {
+                            "code": "{tablet}", 
+                            "system": "http://unitsofmeasure.org", 
+                            "unit": "{tablet}", 
+                            "value": 1.0
+                        }, 
+                        "text": "1 qhs", 
+                        "timing": {
+                            "repeat": {
+                                "boundsPeriod": {
+                                    "start": "2004-12-25"
+                                }, 
+                                "frequency": 1, 
+                                "period": 1, 
+                                "periodUnit": "d"
+                            }
+                        }
+                    }
+                ], 
+                "id": "ehealth-MedicationRequest-193", 
+                "intent": "order", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311945", 
+                            "display": "Niacin 1000 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 1000 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "resourceType": "MedicationRequest", 
+                "status": "active", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Niacin 1000 MG Extended Release Tablet [Niaspan] (rxnorm: 311945)</div>", 
+                    "status": "generated"
+                }
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-704"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-193"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-704", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311945", 
+                            "display": "Niacin 1000 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 1000 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 1000 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-01-18"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-703"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-193"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-703", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "311945", 
+                            "display": "Niacin 1000 MG Extended Release Tablet [Niaspan]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Niacin 1000 MG Extended Release Tablet [Niaspan]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of Niacin 1000 MG Extended Release Tablet [Niaspan]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2004-12-25"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationRequest/ehealth-MedicationRequest-194"
+            }, 
+            "resource": {
+                "dispenseRequest": {
+                    "expectedSupplyDuration": {
+                        "code": "d", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "days", 
+                        "value": 30
+                    }, 
+                    "numberOfRepeatsAllowed": 1, 
+                    "quantity": {
+                        "code": "{tablet}", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "{tablet}", 
+                        "value": 30.0
+                    }
+                }, 
+                "dosageInstruction": [
+                    {
+                        "doseQuantity": {
+                            "code": "{tablet}", 
+                            "system": "http://unitsofmeasure.org", 
+                            "unit": "{tablet}", 
+                            "value": 1.0
+                        }, 
+                        "text": "1 daily", 
+                        "timing": {
+                            "repeat": {
+                                "boundsPeriod": {
+                                    "start": "2005-01-18"
+                                }, 
+                                "frequency": 1, 
+                                "period": 1, 
+                                "periodUnit": "d"
+                            }
+                        }
+                    }
+                ], 
+                "id": "ehealth-MedicationRequest-194", 
+                "intent": "order", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "213186", 
+                            "display": "sibutramine 10 MG Oral Capsule [Meridia]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "sibutramine 10 MG Oral Capsule [Meridia]"
+                }, 
+                "resourceType": "MedicationRequest", 
+                "status": "active", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">sibutramine 10 MG Oral Capsule [Meridia] (rxnorm: 213186)</div>", 
+                    "status": "generated"
+                }
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-700"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-194"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-700", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "213186", 
+                            "display": "sibutramine 10 MG Oral Capsule [Meridia]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "sibutramine 10 MG Oral Capsule [Meridia]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of sibutramine 10 MG Oral Capsule [Meridia]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-01-18"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-701"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-194"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-701", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "213186", 
+                            "display": "sibutramine 10 MG Oral Capsule [Meridia]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "sibutramine 10 MG Oral Capsule [Meridia]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of sibutramine 10 MG Oral Capsule [Meridia]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-02-17"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-702"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-194"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-702", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "213186", 
+                            "display": "sibutramine 10 MG Oral Capsule [Meridia]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "sibutramine 10 MG Oral Capsule [Meridia]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of sibutramine 10 MG Oral Capsule [Meridia]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-03-20"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationRequest/ehealth-MedicationRequest-195"
+            }, 
+            "resource": {
+                "dispenseRequest": {
+                    "expectedSupplyDuration": {
+                        "code": "d", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "days", 
+                        "value": 30
+                    }, 
+                    "numberOfRepeatsAllowed": 1, 
+                    "quantity": {
+                        "code": "{tablet}", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "{tablet}", 
+                        "value": 30.0
+                    }
+                }, 
+                "dosageInstruction": [
+                    {
+                        "doseQuantity": {
+                            "code": "{tablet}", 
+                            "system": "http://unitsofmeasure.org", 
+                            "unit": "{tablet}", 
+                            "value": 1.0
+                        }, 
+                        "text": "1 qhs", 
+                        "timing": {
+                            "repeat": {
+                                "boundsPeriod": {
+                                    "start": "2005-01-24"
+                                }, 
+                                "frequency": 1, 
+                                "period": 1, 
+                                "periodUnit": "d"
+                            }
+                        }
+                    }
+                ], 
+                "id": "ehealth-MedicationRequest-195", 
+                "intent": "order", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859749", 
+                            "display": "rosuvastatin 10 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 10 MG Oral Tablet [Crestor]"
+                }, 
+                "resourceType": "MedicationRequest", 
+                "status": "active", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">rosuvastatin 10 MG Oral Tablet [Crestor] (rxnorm: 859749)</div>", 
+                    "status": "generated"
+                }
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-728"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-195"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-728", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859749", 
+                            "display": "rosuvastatin 10 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 10 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 10 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-01-24"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-729"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-195"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-729", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859749", 
+                            "display": "rosuvastatin 10 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 10 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 10 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-02-24"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-731"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-195"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-731", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859749", 
+                            "display": "rosuvastatin 10 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 10 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 10 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-10-06"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-730"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-195"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-730", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859749", 
+                            "display": "rosuvastatin 10 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 10 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 10 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-03-26"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationRequest/ehealth-MedicationRequest-196"
+            }, 
+            "resource": {
+                "dispenseRequest": {
+                    "expectedSupplyDuration": {
+                        "code": "d", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "days", 
+                        "value": 3
+                    }, 
+                    "numberOfRepeatsAllowed": 1
+                }, 
+                "dosageInstruction": [
+                    {
+                        "text": "taper as directed"
+                    }
+                ], 
+                "id": "ehealth-MedicationRequest-196", 
+                "intent": "order", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "762675", 
+                            "display": "Methylprednisolone 4 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Methylprednisolone 4 MG Oral Tablet"
+                }, 
+                "resourceType": "MedicationRequest", 
+                "status": "active", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Methylprednisolone 4 MG Oral Tablet (rxnorm: 762675)</div>", 
+                    "status": "generated"
+                }
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationRequest/ehealth-MedicationRequest-197"
+            }, 
+            "resource": {
+                "dispenseRequest": {
+                    "expectedSupplyDuration": {
+                        "code": "d", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "days", 
+                        "value": 30
+                    }, 
+                    "numberOfRepeatsAllowed": 1, 
+                    "quantity": {
+                        "code": "{tablet}", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "{tablet}", 
+                        "value": 90.0
+                    }
+                }, 
+                "dosageInstruction": [
+                    {
+                        "asNeededBoolean": true, 
+                        "doseQuantity": {
+                            "code": "{tablet}", 
+                            "system": "http://unitsofmeasure.org", 
+                            "unit": "{tablet}", 
+                            "value": 1.0
+                        }, 
+                        "text": "1 tid prn", 
+                        "timing": {
+                            "repeat": {
+                                "boundsPeriod": {
+                                    "start": "2005-08-20"
+                                }, 
+                                "frequency": 3, 
+                                "period": 1, 
+                                "periodUnit": "d"
+                            }
+                        }
+                    }
+                ], 
+                "id": "ehealth-MedicationRequest-197", 
+                "intent": "order", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "828348", 
+                            "display": "Cyclobenzaprine hydrochloride 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Cyclobenzaprine hydrochloride 10 MG Oral Tablet"
+                }, 
+                "resourceType": "MedicationRequest", 
+                "status": "active", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Cyclobenzaprine hydrochloride 10 MG Oral Tablet (rxnorm: 828348)</div>", 
+                    "status": "generated"
+                }
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-716"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-197"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-716", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "828348", 
+                            "display": "Cyclobenzaprine hydrochloride 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "Cyclobenzaprine hydrochloride 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 90.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 90 tablets = 30 day supply of Cyclobenzaprine hydrochloride 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-08-20"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationRequest/ehealth-MedicationRequest-198"
+            }, 
+            "resource": {
+                "dispenseRequest": {
+                    "expectedSupplyDuration": {
+                        "code": "d", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "days", 
+                        "value": 30
+                    }, 
+                    "numberOfRepeatsAllowed": 1, 
+                    "quantity": {
+                        "code": "{tablet}", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "{tablet}", 
+                        "value": 30.0
+                    }
+                }, 
+                "dosageInstruction": [
+                    {
+                        "doseQuantity": {
+                            "code": "{tablet}", 
+                            "system": "http://unitsofmeasure.org", 
+                            "unit": "{tablet}", 
+                            "value": 1.0
+                        }, 
+                        "text": "1 qhs", 
+                        "timing": {
+                            "repeat": {
+                                "boundsPeriod": {
+                                    "start": "2005-09-10"
+                                }, 
+                                "frequency": 1, 
+                                "period": 1, 
+                                "periodUnit": "d"
+                            }
+                        }
+                    }
+                ], 
+                "id": "ehealth-MedicationRequest-198", 
+                "intent": "order", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "resourceType": "MedicationRequest", 
+                "status": "active", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">rosuvastatin 20 MG Oral Tablet [Crestor] (rxnorm: 859753)</div>", 
+                    "status": "generated"
+                }
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-718"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-198"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-718", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 20 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-10-23"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-727"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-198"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-727", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 20 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-09-02"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-723"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-198"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-723", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 20 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-03-29"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-720"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-198"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-720", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 20 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-11-15"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-717"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-198"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-717", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 20 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2005-09-10"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-726"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-198"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-726", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 20 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-08-03"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-725"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-198"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-725", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 20 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-06-30"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-721"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-198"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-721", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 20 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-12-19"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-724"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-198"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-724", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 20 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-05-13"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-722"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-198"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-722", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 20 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-03-05"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-719"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-198"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-719", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "859753", 
+                            "display": "rosuvastatin 20 MG Oral Tablet [Crestor]", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "rosuvastatin 20 MG Oral Tablet [Crestor]"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of rosuvastatin 20 MG Oral Tablet [Crestor]</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2006-10-09"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationRequest/ehealth-MedicationRequest-199"
+            }, 
+            "resource": {
+                "dispenseRequest": {
+                    "expectedSupplyDuration": {
+                        "code": "d", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "days", 
+                        "value": 30
+                    }, 
+                    "numberOfRepeatsAllowed": 1, 
+                    "quantity": {
+                        "code": "{tablet}", 
+                        "system": "http://unitsofmeasure.org", 
+                        "unit": "{tablet}", 
+                        "value": 30.0
+                    }
+                }, 
+                "dosageInstruction": [
+                    {
+                        "asNeededBoolean": true, 
+                        "doseQuantity": {
+                            "code": "{tablet}", 
+                            "system": "http://unitsofmeasure.org", 
+                            "unit": "{tablet}", 
+                            "value": 1.0
+                        }, 
+                        "text": "1 qhs prn insomnia", 
+                        "timing": {
+                            "repeat": {
+                                "boundsPeriod": {
+                                    "start": "2007-03-29"
+                                }, 
+                                "frequency": 1, 
+                                "period": 1, 
+                                "periodUnit": "d"
+                            }
+                        }
+                    }
+                ], 
+                "id": "ehealth-MedicationRequest-199", 
+                "intent": "order", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "854873", 
+                            "display": "zolpidem 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "zolpidem 10 MG Oral Tablet"
+                }, 
+                "resourceType": "MedicationRequest", 
+                "status": "active", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">zolpidem 10 MG Oral Tablet (rxnorm: 854873)</div>", 
+                    "status": "generated"
+                }
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-732"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-199"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-732", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "854873", 
+                            "display": "zolpidem 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "zolpidem 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of zolpidem 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-03-29"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "MedicationDispense/ehealth-MedicationDispense-733"
+            }, 
+            "resource": {
+                "authorizingPrescription": [
+                    {
+                        "reference": "MedicationRequest/ehealth-MedicationRequest-199"
+                    }
+                ], 
+                "daysSupply": {
+                    "code": "d", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "days", 
+                    "value": 30
+                }, 
+                "id": "ehealth-MedicationDispense-733", 
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "854873", 
+                            "display": "zolpidem 10 MG Oral Tablet", 
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ], 
+                    "text": "zolpidem 10 MG Oral Tablet"
+                }, 
+                "quantity": {
+                    "code": "{tablets}", 
+                    "system": "http://unitsofmeasure.org", 
+                    "unit": "tablets", 
+                    "value": 30.0
+                }, 
+                "resourceType": "MedicationDispense", 
+                "status": "completed", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Dispensed 30 tablets = 30 day supply of zolpidem 10 MG Oral Tablet</div>", 
+                    "status": "generated"
+                }, 
+                "whenHandedOver": "2007-05-13"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-351"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "29857009", 
+                            "display": "Chest pain", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Chest pain"
+                }, 
+                "id": "ehealth-Condition-351", 
+                "onsetDateTime": "2003-11-10", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Chest pain</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-352"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "102589003", 
+                            "display": "Chest pain", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Chest pain"
+                }, 
+                "id": "ehealth-Condition-352", 
+                "onsetDateTime": "2003-11-10", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Chest pain</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-353"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "79922009", 
+                            "display": "Epigastric pain", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Epigastric pain"
+                }, 
+                "id": "ehealth-Condition-353", 
+                "onsetDateTime": "2003-11-10", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Epigastric pain</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-354"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "297242006", 
+                            "display": "FH: Cardiac disorder", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "FH: Cardiac disorder"
+                }, 
+                "id": "ehealth-Condition-354", 
+                "onsetDateTime": "2003-11-10", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">FH: Cardiac disorder</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-355"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "386661006", 
+                            "display": "Fever and other physiologic disturbances of temperature regulation", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Fever and other physiologic disturbances of temperature regulation"
+                }, 
+                "id": "ehealth-Condition-355", 
+                "onsetDateTime": "2003-11-10", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Fever and other physiologic disturbances of temperature regulation</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-356"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "57643001", 
+                            "display": "Gastro-esophageal reflux disease with esophagitis", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Gastro-esophageal reflux disease with esophagitis"
+                }, 
+                "id": "ehealth-Condition-356", 
+                "onsetDateTime": "2003-11-10", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Gastro-esophageal reflux disease with esophagitis</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-357"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "422587007", 
+                            "display": "Nausea", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Nausea"
+                }, 
+                "id": "ehealth-Condition-357", 
+                "onsetDateTime": "2003-11-10", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Nausea</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-358"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "111583006", 
+                            "display": "White blood cell disorder", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "White blood cell disorder"
+                }, 
+                "id": "ehealth-Condition-358", 
+                "onsetDateTime": "2003-11-10", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">White blood cell disorder</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-359"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "38341003", 
+                            "display": "Essential hypertension", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Essential hypertension"
+                }, 
+                "id": "ehealth-Condition-359", 
+                "onsetDateTime": "2003-11-18", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Essential hypertension</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-360"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "237602007", 
+                            "display": "Metabolic syndrome X", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Metabolic syndrome X"
+                }, 
+                "id": "ehealth-Condition-360", 
+                "onsetDateTime": "2003-11-18", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Metabolic syndrome X</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-361"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "238136002", 
+                            "display": "Morbid obesity", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Morbid obesity"
+                }, 
+                "id": "ehealth-Condition-361", 
+                "onsetDateTime": "2003-11-18", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Morbid obesity</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-362"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "1201005", 
+                            "display": "Benign essential hypertension", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Benign essential hypertension"
+                }, 
+                "id": "ehealth-Condition-362", 
+                "onsetDateTime": "2003-12-20", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Benign essential hypertension</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-363"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "267432004", 
+                            "display": "Pure hypercholesterolemia", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Pure hypercholesterolemia"
+                }, 
+                "id": "ehealth-Condition-363", 
+                "onsetDateTime": "2003-12-20", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Pure hypercholesterolemia</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-364"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "44054006", 
+                            "display": "Diabetes mellitus type 2", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Diabetes mellitus type 2"
+                }, 
+                "id": "ehealth-Condition-364", 
+                "onsetDateTime": "2005-01-18", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Diabetes mellitus type 2</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-365"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "55822004", 
+                            "display": "Hyperlipidemia", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Hyperlipidemia"
+                }, 
+                "id": "ehealth-Condition-365", 
+                "onsetDateTime": "2005-01-18", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Hyperlipidemia</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Condition/ehealth-Condition-366"
+            }, 
+            "resource": {
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "279039007", 
+                            "display": "Low back pain", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Low back pain"
+                }, 
+                "id": "ehealth-Condition-366", 
+                "onsetDateTime": "2005-08-20", 
+                "resourceType": "Condition", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Low back pain</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "Observation/ehealth-smokingstatus-28"
+            }, 
+            "resource": {
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "code": "social-history", 
+                                "display": "Social History", 
+                                "system": "http://hl7.org/fhir/observation-category"
+                            }
+                        ], 
+                        "text": "Social History"
+                    }
+                ], 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "72166-2", 
+                            "display": "Tobacco smoking status", 
+                            "system": "http://loinc.org"
+                        }
+                    ], 
+                    "text": "Tobacco smoking status"
+                }, 
+                "effectiveDateTime": "2016-12-05", 
+                "id": "ehealth-smokingstatus-28", 
+                "identifier": [
+                    {
+                        "system": "http://www.bmc.nl/zorgportal/identifiers/observations", 
+                        "use": "official", 
+                        "value": "ehealth-28"
+                    }
+                ], 
+                "performer": [
+                    {
+                        "reference": "Practitioner/ehealth-Practitioner-72080416"
+                    }
+                ], 
+                "resourceType": "Observation", 
+                "status": "final", 
+                "subject": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Tobacco smoking status: Never smoker</div>", 
+                    "status": "generated"
+                }, 
+                "valueCodeableConcept": {
+                    "coding": [
+                        {
+                            "code": "266919005", 
+                            "display": "Never smoker", 
+                            "system": "http://snomed.info/sct"
+                        }
+                    ], 
+                    "text": "Never smoker"
+                }
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "AllergyIntolerance/ehealth-AllergyIntolerance-39"
+            }, 
+            "resource": {
+                "assertedDate": "2000", 
+                "category": "medication", 
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "N0000175503", 
+                            "display": "sulfonamide antibacterial", 
+                            "system": "http://rxnav.nlm.nih.gov/REST/Ndfrt"
+                        }
+                    ], 
+                    "text": "sulfonamide antibacterial"
+                }, 
+                "criticality": "low", 
+                "id": "ehealth-AllergyIntolerance-39", 
+                "patient": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "reaction": [
+                    {
+                        "manifestation": [
+                            {
+                                "coding": [
+                                    {
+                                        "code": "271807003", 
+                                        "display": "skin rash", 
+                                        "system": "http://snomed.info/sct"
+                                    }
+                                ], 
+                                "text": "skin rash"
+                            }
+                        ], 
+                        "severity": "mild"
+                    }
+                ], 
+                "resourceType": "AllergyIntolerance", 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Sensitivity to sulfonamide antibacterial</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }, 
+        {
+            "request": {
+                "method": "PUT", 
+                "url": "AllergyIntolerance/ehealth-AllergyIntolerance-40"
+            }, 
+            "resource": {
+                "assertedDate": "2000", 
+                "category": "food", 
+                "clinicalStatus": "active", 
+                "code": {
+                    "coding": [
+                        {
+                            "code": "QE1QX6B99R", 
+                            "display": "peanut", 
+                            "system": "http://fda.gov/UNII/"
+                        }
+                    ], 
+                    "text": "peanut"
+                }, 
+                "criticality": "high", 
+                "id": "ehealth-AllergyIntolerance-40", 
+                "patient": {
+                    "reference": "Patient/ehealth-1685497"
+                }, 
+                "reaction": [
+                    {
+                        "manifestation": [
+                            {
+                                "coding": [
+                                    {
+                                        "code": "39579001", 
+                                        "display": "Anaphylaxis", 
+                                        "system": "http://snomed.info/sct"
+                                    }
+                                ], 
+                                "text": "Anaphylaxis"
+                            }
+                        ], 
+                        "severity": "severe"
+                    }
+                ], 
+                "resourceType": "AllergyIntolerance", 
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Sensitivity to peanut</div>", 
+                    "status": "generated"
+                }, 
+                "verificationStatus": "confirmed"
+            }
+        }
+    ], 
+    "resourceType": "Bundle", 
+    "type": "transaction"
+}
