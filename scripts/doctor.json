@@ -1,0 +1,53 @@
+{
+    "entry": [
+        {
+          "request": {
+                "method": "PUT", 
+                "url": "Practitioner/ehealth-000053"
+          }, 
+          "resource": 
+
+{
+        "resourceType": "Practitioner",
+        "id": "ehealth-000053",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2019-01-14T07:14:41.939+00:00"
+        },
+        "extension": [
+          {
+            "url": "https://accounts.ehealth.id",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "https://accounts.ehealth.id",
+                  "code": "doctor",
+                  "display": "doctor"
+                }
+              ],
+              "text": "Practitioner Roles"
+            }
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Sivatula",
+            "given": [
+              "Maraka"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "marakas@gmail.com"
+          }
+        ]
+}
+
+     }
+    ], 
+    "resourceType": "Bundle", 
+    "type": "transaction"
+}

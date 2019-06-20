@@ -1,0 +1,58 @@
+{
+    "entry": [
+        {
+          "request": {
+                "method": "PUT", 
+                "url": "Encounter/ehealth-001"
+          },
+          "resource":
+
+{
+        "resourceType": "Encounter",
+        "id": "ehealth-001",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2019-06-19T06:52:20.835+00:00"
+        },
+        "extension": [
+          {
+            "url": "https://www.ehealth.co.id//visitor-id",
+            "valueInteger": 1
+          }
+        ],
+        "status": "arrived",
+        "class": {
+          "system": "https://www.hl7.org/fhir/v3/ActEncounterCode/vs.html",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "subject": {
+          "reference": "Patient/ehealth-731673"
+        },
+        "participant": [
+          {
+            "individual": {
+              "reference": "Practitioner/ehealth-000053"
+            }
+          }
+        ],
+        "appointment": {
+          "reference": "Appointment/ehealth-001"
+        },
+        "period": {
+          "start": "2019-06-19T07:03:41.059Z"
+        },
+        "location": [
+          {
+            "location": {
+              "reference": "Location/ui-000001"
+            }
+          }
+        ]
+}
+
+        }
+      ], 
+    "resourceType": "Bundle", 
+    "type": "transaction"
+}

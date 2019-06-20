@@ -1,0 +1,128 @@
+{
+    "entry": [
+        {
+          "request": {
+                "method": "PUT", 
+                "url": "Patient/ehealth-731673"
+          }, 
+          "resource":
+          {
+            "resourceType": "Patient",
+            "id": "ehealth-731673",
+            "meta": {
+              "versionId": "1",
+              "lastUpdated": "2019-01-09T03:51:25.744+00:00"
+            },
+            "extension": [
+              {
+                "url": "http://hl7.org/fhir/StructureDefinition/patient-religion",
+                "valueCodeableConcept": {
+                  "coding": [
+                    {
+                      "system": "http://hl7.org/fhir/v3/ReligiousAffiliation",
+                      "code": "1023",
+                      "display": "Islam"
+                    }
+                  ],
+                  "text": "Islam"
+                }
+              },
+              {
+                "url": "www.ui.ac.id/layanan/poliklinik.html",
+                "valueCodeableConcept": {
+                  "coding": [
+                    {
+                      "system": "http://makara-ui.ehealth.co.id/insurance",
+                      "code": "private",
+                      "display": "Bayar Sendiri"
+                    }
+                  ],
+                  "text": "Bayar Sendiri"
+                }
+              },
+              {
+                "url": "http://makara-ui.ehealth.co.id/kategori-pasien",
+                "valueString": "Tamu"
+              },
+              {
+                "url": "http://makara-ui.ehealth.co.id/asal-pasien",
+                "valueString": "Umum"
+              }
+            ],
+            "identifier": [
+              {
+                "use": "official",
+                "type": {
+                  "coding": [
+                    {
+                      "system": "http://hl7.org/fhir/v2/0203",
+                      "code": "MR",
+                      "display": "Medical record number"
+                    }
+                  ],
+                  "text": "Medical record number"
+                },
+                "system": "Medical record number",
+                "value": "02009"
+              },
+              {
+                "use": "official",
+                "type": {
+                  "coding": [
+                    {
+                      "system": "http://hl7.org/fhir/v2/0203",
+                      "code": "CZ",
+                      "display": "Citizenship Card"
+                    }
+                  ],
+                  "text": "Citizenship Card"
+                },
+                "system": "KTP",
+                "value": "1209312093"
+              }
+            ],
+            "active": true,
+            "name": [
+              {
+                "family": "Percobaan",
+                "given": [
+                  "Pasien"
+                ]
+              }
+            ],
+            "telecom": [
+              {
+                "system": "phone",
+                "value": "2198331289213"
+              },
+              {
+                "system": "email"
+              }
+            ],
+            "gender": "female",
+            "birthDate": "1966-06-13",
+            "address": [
+              {
+                "use": "home",
+                "line": [
+                  "VIlla Pancoran Mas Blok Q No 13 Mampang Pancoran Mas"
+                ],
+                "country": "Indonesia"
+              }
+            ],
+            "maritalStatus": {
+              "coding": [
+                {
+                  "system": "https://www.hl7.org/fhir/valueset-marital-status.html",
+                  "code": "M",
+                  "display": "Menikah"
+                }
+              ],
+              "text": "Menikah"
+            }
+          } 
+        }
+    ], 
+    "resourceType": "Bundle", 
+    "type": "transaction"
+}

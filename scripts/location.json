@@ -1,0 +1,32 @@
+{
+    "entry": [
+        {
+          "request": {
+                "method": "PUT", 
+                "url": "Location/ui-000001"
+          }, 
+          "resource":
+          {
+            "resourceType" : "Location",
+            "id": "ui-000001",
+            "name" : "Klinik Ehealth",
+            "address" : {
+              "text" : "Perum Simankalaya Bandung Jawa Barat 16320",
+              "line" : "Jl. Raya Babakan",
+              "city" : "Bandung",
+              "state" : "Jawa Barat",
+              "postalCode" : "123320"
+            },
+            "physicalType" : {
+              "coding" : [{
+                "system": "https://www.hl7.org/fhir/valueset-location-physical-type.html",
+                "code" : "bu",
+                "display" : "Building"
+              }]
+            }
+          }
+        }
+    ], 
+    "resourceType": "Bundle", 
+    "type": "transaction"
+}

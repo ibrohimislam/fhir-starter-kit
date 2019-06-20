@@ -1,0 +1,5 @@
+#!/bin/bash
+resType=$1
+id=$2
+echo "$resType/$id"
+curl "https://xx.xx.xx.xx/baseDstu3/$resType/$id"

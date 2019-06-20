@@ -1,0 +1,6 @@
+#!/bin/bash
+resType=$1
+id=$2
+uri=$3
+echo "$uri/baseDstu3/$resType/$id"
+curl -X "DELETE" "$uri/baseDstu3/$resType/$id" 
